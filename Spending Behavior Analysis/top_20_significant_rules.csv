@@ -1,0 +1,21 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'Food_Freq'}),frozenset({'Entertainment_Freq'}),0.913,1.0,0.913,1.0,1.0,0.0,inf,0.0
+"frozenset({'Food_Freq', 'KidsPets_Freq', 'Home_Freq', 'HealthFitness_Freq', 'PersonalCare_Freq'})",frozenset({'Grocery_Freq'}),0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Miscellaneous_Freq', 'Entertainment_Freq', 'PersonalCare_Freq', 'Travel_Freq'})","frozenset({'Grocery_Freq', 'Shopping_Freq'})",0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Grocery_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq', 'Travel_Freq'})","frozenset({'Shopping_Freq', 'Entertainment_Freq'})",0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Shopping_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq', 'Travel_Freq'})","frozenset({'Grocery_Freq', 'Entertainment_Freq'})",0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Miscellaneous_Freq', 'PersonalCare_Freq', 'Travel_Freq'})","frozenset({'Grocery_Freq', 'Shopping_Freq', 'Entertainment_Freq'})",0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Food_Freq', 'Grocery_Freq', 'KidsPets_Freq', 'Home_Freq', 'PersonalCare_Freq'})",frozenset({'HealthFitness_Freq'}),0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Food_Freq', 'Grocery_Freq', 'Home_Freq', 'HealthFitness_Freq', 'PersonalCare_Freq'})",frozenset({'KidsPets_Freq'}),0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Grocery_Freq', 'Home_Freq', 'Food_Freq', 'PersonalCare_Freq'})","frozenset({'KidsPets_Freq', 'HealthFitness_Freq'})",0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Food_Freq', 'Shopping_Freq', 'Home_Freq', 'HealthFitness_Freq', 'PersonalCare_Freq'})",frozenset({'KidsPets_Freq'}),0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'KidsPets_Freq', 'Home_Freq', 'Food_Freq', 'PersonalCare_Freq'})","frozenset({'Grocery_Freq', 'HealthFitness_Freq'})",0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Home_Freq', 'Food_Freq', 'HealthFitness_Freq', 'PersonalCare_Freq'})","frozenset({'Grocery_Freq', 'KidsPets_Freq'})",0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Home_Freq', 'Food_Freq', 'PersonalCare_Freq'})","frozenset({'Grocery_Freq', 'KidsPets_Freq', 'HealthFitness_Freq'})",0.77,1.0,0.77,1.0,1.0,0.0,inf,0.0
+"frozenset({'Food_Freq', 'KidsPets_Freq', 'Home_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq'})",frozenset({'HealthFitness_Freq'}),0.674,1.0,0.674,1.0,1.0,0.0,inf,0.0
+"frozenset({'Food_Freq', 'Home_Freq', 'Miscellaneous_Freq', 'HealthFitness_Freq', 'PersonalCare_Freq'})",frozenset({'KidsPets_Freq'}),0.674,1.0,0.674,1.0,1.0,0.0,inf,0.0
+"frozenset({'Home_Freq', 'Food_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq'})","frozenset({'KidsPets_Freq', 'HealthFitness_Freq'})",0.674,1.0,0.674,1.0,1.0,0.0,inf,0.0
+"frozenset({'Grocery_Freq', 'Shopping_Freq', 'Travel_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq'})",frozenset({'Entertainment_Freq'}),0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Entertainment_Freq', 'Shopping_Freq', 'Travel_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq'})",frozenset({'Grocery_Freq'}),0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Entertainment_Freq', 'Grocery_Freq', 'Travel_Freq', 'Miscellaneous_Freq', 'PersonalCare_Freq'})",frozenset({'Shopping_Freq'}),0.733,1.0,0.733,1.0,1.0,0.0,inf,0.0
+"frozenset({'Miscellaneous_Freq', 'Travel_Freq'})","frozenset({'Grocery_Freq', 'KidsPets_Freq', 'Shopping_Freq', 'Entertainment_Freq'})",0.803,1.0,0.803,1.0,1.0,0.0,inf,0.0
